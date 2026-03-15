@@ -22,8 +22,7 @@ taint map lookups. While the tool demonstrates the feasibility of
 taint tracking in simple IRs, it highlights challenges in extending
 such methods to real-world codebases.
 
-### Index Terms—Taint Analysis, Inter-Procedrural Control Flow
-Graph (ICFG), IFDS, Dataflow Analysis, Fixed-Point Iteration
+### Index Terms—Taint Analysis, Inter-Procedrural Control Flow Graph (ICFG), IFDS, Dataflow Analysis, Fixed-Point Iteration
 
 
 #### Please refer to documentation.md file to see details and implementation of the C++ code.

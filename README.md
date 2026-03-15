@@ -1,4 +1,6 @@
-# Project created by: TaeSeo Um and Apurv Deshpande
+# Virginia Tech - IFDS Taint Analysis Framework Documentation
+
+## Project submitted by: TaeSeo Um and Apurv Deshpande
 
 We have put the entire codebase + testcases into one compileable codefile
 

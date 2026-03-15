@@ -1,4 +1,4 @@
-#Project created by: TaeSeo Um and Apurv Deshpande
+# Project created by: TaeSeo Um and Apurv Deshpande
 
 We have put the entire codebase + testcases into one compileable codefile
 
@@ -26,4 +26,4 @@ such methods to real-world codebases.
 Graph (ICFG), IFDS, Dataflow Analysis, Fixed-Point Iteration
 
 
-####Please refer to documentation.md file to see details and implementation of the C++ code.
+#### Please refer to documentation.md file to see details and implementation of the C++ code.

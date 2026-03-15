@@ -2,12 +2,6 @@
 
 ## Project submitted by: TaeSeo Um and Apurv Deshpande
 
-We have put the entire codebase + testcases into one compileable codefile
-
-### HOW TO COMPILE: g++ -std=c++14 ifds_taint.cpp -o ifds_taint
-
-### HOW TO RUN: ./ifds_taint
-
 ### Abstract—
 This project presents the design and implementation
 of a static taint analysis tool targeting a simplified intermediate
@@ -28,3 +22,9 @@ such methods to real-world codebases.
 
 
 #### Please refer to documentation.md file to see details and implementation of the C++ code.
+
+We have put the entire codebase + testcases into one compileable codefile
+
+### HOW TO COMPILE: g++ -std=c++14 ifds_taint.cpp -o ifds_taint
+
+### HOW TO RUN: ./ifds_taint
